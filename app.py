@@ -8,7 +8,7 @@ import datetime
 import numpy as np
 
 # --- Configuration ---
-CLASS_NAMES = ['Algal Spot', 'Brown Blight', 'Healthy', 'Unknown']
+CLASS_NAMES = ['Algal Spot', 'Brown Blight', 'Healthy']
 
 # --- Sidebar Settings ---
 st.sidebar.markdown("## ⚙️ **Settings**")
