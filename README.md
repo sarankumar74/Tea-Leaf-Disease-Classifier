@@ -88,7 +88,7 @@ This project helps identify tea leaf diseases quickly using image-based deep lea
 
 
 #### Results Page 1 
-![Result Page](https://github.com/user-attachments/assets/3e45d622-ba3c-4024-a1f7-c283a4de1054")
+![Result Page](https://github.com/user-attachments/assets/3e45d622-ba3c-4024-a1f7-c283a4de1054)
 
 
 ---
